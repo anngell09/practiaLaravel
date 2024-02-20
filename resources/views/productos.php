@@ -7,7 +7,7 @@
 </head>
 <body>
     
-<h1>Este es un codigo en la vista aplicando un controlador</h1>
+<h1>Este es un codigo en la vista aplicando un controlador para productos</h1>
 
 </body>
 </html> 
